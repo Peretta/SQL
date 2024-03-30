@@ -1,0 +1,14 @@
+-cada coluna tem algumas informaçõe sobre ela:
+-- nome da coluna
+-- tipo da coluna
+-- tamanho da coluna
+-- se a coluna aceira NULL (nulo)
+-- valor padrão
+
+TIPOS DE DADOS
+
+Inteiro: *int, *tinyint, smallint, mediumint,  
+Real: *float, double, decimal
+Texto: *VarChar, *text, Char,  Tinytext, mediumtext, LongText
+Tempo: *DATE, *Time, year, datetime, timestamp
+Geográficos e Outros

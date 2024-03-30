@@ -1,0 +1,37 @@
+
+-> COMO FUNCIONA O MYSQL?
+
+
+- MYSQL é um Software
+
+-Este software fica atrelado a uma porta, a porta padrão é: 3306
+ex: 165.112.111.11:3306
+Como me comunicar com esse banco de dados:
+
+comando enviado para o endereço, o qual realiza o comando e retorna os dados.
+
+Comunicar:
+
+C: Create = Criar = INSERIR DADOS
+R: Read = Ler = PEGAR DADOS EXISTENTES
+U: Update = Atualizar = MODIFICAR DADOS EXISTENTES
+D: Delete = Excluir = REMOVER DADOS EXISTENTES
+
+EMPRESAS QUE USAM:
+
+
+O MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS) que funciona como um servidor de banco de dados. Ele opera em uma porta específica, por padrão a porta 3306, como você mencionou.
+
+Para se comunicar com o banco de dados MySQL, você pode usar uma variedade de linguagens de programação, como PHP, Python, Java, entre outras. Geralmente, você se conecta ao banco de dados MySQL usando uma API específica para sua linguagem de programação. Essa API permite que você envie comandos SQL para o banco de dados e receba resultados de volta.
+
+A comunicação com o banco de dados geralmente segue o padrão CRUD:
+
+C (Create): Usado para inserir novos dados no banco de dados. Isso é feito por meio de comandos SQL de inserção, como o comando INSERT.
+
+R (Read): Usado para recuperar dados existentes do banco de dados. Isso é feito por meio de comandos SQL de consulta, como o comando SELECT.
+
+U (Update): Usado para atualizar dados existentes no banco de dados. Isso é feito por meio de comandos SQL de atualização, como o comando UPDATE.
+
+D (Delete): Usado para excluir dados existentes do banco de dados. Isso é feito por meio de comandos SQL de exclusão, como o comando DELETE.
+
+Empresas que usam MySQL incluem uma variedade de organizações em diferentes setores, desde startups até grandes empresas. Alguns exemplos de empresas que usam MySQL incluem Facebook, Twitter, YouTube, Airbnb, Uber, entre outros. Isso ocorre porque o MySQL é conhecido por ser rápido, confiável e escalável, tornando-o uma escolha popular para muitos aplicativos e serviços da web.

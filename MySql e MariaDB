@@ -1,0 +1,28 @@
+HISTÓRIA:
+
+- 2008 a SUN adquiriu a desevolvedora do MySql.
+- 2009 a Oracle adquiriu a SUN, junto do MySql.
+- 2009 criou-se o MariaDB.
+
+DIFERENÇA
+
+- Maria DB entrega uma perfomace de desempenho melhor 
+- Suportes a tecnologia interna maiores que a do MySql
+- Ambos usam o Sql
+
+
+A história do MySQL e do MariaDB é interessante e tem algumas nuances importantes:
+
+Aquisição pela Sun Microsystems (2008): Em 2008, a Sun Microsystems adquiriu a desenvolvedora do MySQL, a MySQL AB. A Sun era conhecida por suas tecnologias de hardware e software, e a aquisição do MySQL aumentou sua presença no mercado de software de banco de dados.
+
+Aquisição pela Oracle (2009): No ano seguinte, em 2009, a Oracle Corporation adquiriu a Sun Microsystems, incluindo o MySQL, como parte do negócio. Isso colocou o MySQL sob a propriedade da Oracle, uma das maiores empresas de software do mundo.
+
+Criação do MariaDB (2009): Com algumas preocupações sobre o futuro do MySQL sob a administração da Oracle, Michael "Monty" Widenius, um dos fundadores originais do MySQL, criou o MariaDB em 2009 como um fork do MySQL. Um fork é uma cópia do código-fonte original que continua a ser desenvolvido de forma independente. O MariaDB foi projetado para ser uma alternativa ao MySQL, mantendo compatibilidade com ele.
+
+Diferenças entre MySQL e MariaDB:
+
+Desempenho: O MariaDB tem uma reputação de melhor desempenho em comparação com o MySQL em determinadas situações. Isso ocorre porque o MariaDB incorpora otimizações e melhorias que podem não estar presentes no MySQL.
+
+Suporte a tecnologias internas: O MariaDB tem suporte para algumas tecnologias e recursos que podem ser mais avançados ou mais extensos do que os oferecidos pelo MySQL. Isso pode incluir armazenamento de dados, tipos de dados, funções e outras características.
+
+Ambos o MySQL e o MariaDB são sistemas de gerenciamento de banco de dados relacionais e utilizam a linguagem SQL para consultas e operações de banco de dados. A escolha entre MySQL e MariaDB geralmente depende das necessidades específicas do projeto, das preferências da equipe de desenvolvimento e de outros fatores, como desempenho, suporte e comunidade de usuários.
